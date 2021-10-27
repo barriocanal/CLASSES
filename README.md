@@ -1,7 +1,7 @@
 Classes <img src="https://www.r-project.org/Rlogo.png" align="right"  height="160" />
 =========================================================
 
-Pràctiques de l'assignatura Geografia Física i Climatologia del Grau de Ciències Ambientals (UB)
+Recomanacions de suport pel màster.... de l'assignatura Geografia Física i Climatologia del Grau de Ciències Ambientals (UB)
 
 Recomanació (i oportunitat)
 ----------
